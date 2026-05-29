@@ -8,3 +8,14 @@ Each dashboard uses a different real-world dataset to build progressively advanc
 Power Bi is core skill for data roles. This repo demostrate my skill in real analysis with real datasets.
 
 ## Dashboards
+
+### Week One - Frad Analytics Overview
+
+![Dashboard Overview](assets/fraud_analytics_overview.PNG)
+
+#### Dataset
+-**Name:** Credit Card Fraud Detection
+**Source:** [Kaggle - Machine Learning Group - ULB](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+#### What I built
+A single page fraud overview dashboard showing the scale, distribution, amd timing of fraudulent credit transactions.
