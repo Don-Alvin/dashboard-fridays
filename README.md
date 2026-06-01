@@ -9,7 +9,7 @@ Power Bi is core skill for data roles. This repo demostrate my skill in real ana
 
 ## Dashboards
 
-### Week One - Frad Analytics Overview
+### Week One - Fraud Analytics Overview
 
 ![Dashboard Overview](assets/fraud_analytics_overview.PNG)
 
